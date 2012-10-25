@@ -1,0 +1,177 @@
+.service-sign{
+	width:320px;
+	float:right;
+}
+.product-info{
+	padding:5px;
+	width:600px;
+	float:left;
+}
+
+.product-info #company_name{
+	color:#DD4B39;
+	font-size:25px;
+	font-weight:bold;
+	line-height:24px;
+	margin-bottom:10px;
+}
+.product-info #company_slogan{
+	display:inline-block;
+	font-size:16px;
+	margin-bottom:15px;
+}
+.product-info #company_intro{
+	font-size:13px;
+}
+
+.service-sign ul{
+	background-color:#D14836;
+	font-weight:bold;
+	color:white;
+}
+
+.register{
+	float:right;
+	margin-top:15px;
+	margin-right:50px;
+}
+#clearboth,#clearboth1,#clearboth2{
+	clear:both;
+}
+
+#memberLogin{
+	background-color:#F1F1F1;
+	height:320px;
+	position:relative;
+	border: 1px solid #E5E5E5;
+	border-top: 0px solid #E5E5E5;
+	padding:10px;
+	border:1px solid #D14836;
+}
+.service-sign ul{
+	height:30px;
+	color:white;
+}
+.service-sign li{
+	float:left;
+	text-align:center;
+	height:30px;
+	padding-top:8px;
+}
+.service-sign div{
+	padding:5px;
+}
+.service-sign input{
+	height:30px;
+	border: 1px solid #D9D9D9;
+}
+
+.service-sign label{
+	width:110px;
+	display:inline-block;
+}
+#service_apply_submit,#login_submit{
+	float:right;
+	width:80px;
+	height:30px;
+	background-color: #4D90FE;
+	color:white;
+	font-weight: bold;
+	border: 1px solid #3079ED;
+	
+}
+
+#service_items p{
+	margin-top:10px;
+	font-size:80%;
+}
+#service_items li{
+	margin-top:15px;
+}
+#service_items a{
+	text-decoration: none;
+	margin-left:5px;
+}
+
+
+
+#website_develop{
+	background-image:url(../pic/website_develop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 50%;
+	height:43px;
+	margin-bottom:25px;
+	margin-top:25px;
+}
+#software_develop{
+	background-image:url(../pic/software_develop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 50%;
+	height:43px;
+	margin-bottom:25px;
+	margin-top:25px;
+}
+#webapp_develop{
+	background-image:url(../pic/webapp_develop.jpg);
+	background-repeat:no-repeat;
+	background-position:0 50%;
+	height:43px;
+	margin-bottom:25px;
+}
+#humanresource_outsourcing{
+	background-image:url(../pic/humanresource_outsourcing.jpg);
+	background-repeat:no-repeat;
+	background-position:0 50%;
+	height:43px;
+	margin-bottom:10px;
+}
+#website_develop,#software_develop,#webapp_develop,#humanresource_outsourcing div{
+	padding-left:155px;
+	height:50px;
+}
+
+#newService_tips{
+	margin-bottom:15px;
+}
+
+#newService_tips h1{
+	border:1px solid #D14836;
+	float:left;
+	background-color: #D14836;
+	width:113px;
+	height:27px;
+	color:white;
+	font-size: 17px;
+    font-weight: bold;
+	text-align: center;
+}
+#newService_tips p{
+	border: 1px solid #AAAAAA;
+	background-color:  #F2F2F2;
+	color: #1155CC;
+	font-size:16px;
+	height:27px;
+	width:830px;
+	float:right;
+}
+#user_menu{
+	width:113px;
+	float:left;
+}
+#user_menu h1{
+	width:113px;
+	font-size: 17px;
+    font-weight: bold;
+	color:#D14836;
+	margin-bottom:5px;
+}
+#user_menu li{
+	padding-left:10px;
+	padding-bottom:5px;
+}
+#info_details{
+	border:1px solid #E5E5E5;
+	width:830px;
+	height:500px;
+	float:right;
+}

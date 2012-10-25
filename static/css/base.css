@@ -1,0 +1,83 @@
+/*-----------global settings start-------------*/
+body{
+ text-align:center;
+}
+.wrapper{
+	min-height:100%;
+	margin:0 auto;
+	overflow:hidden;
+}
+/*-----------global settings end-------------*/
+
+
+/*-----------header settings start-------------*/
+.header-bar{
+	background-image:url('../pic/logo.png');
+	background-repeat:no-repeat;
+	background-position:40px 50%;
+	text-align:left;
+	height:71px;
+	background-color:#F1F1F1;
+	border-bottom: 1px solid #E5E5E5;
+	overflow:hidden;
+}
+.header-bar .menu-bar{
+	float:left;
+	margin-top:45px;
+	margin-left:550px;
+}
+.header-bar .menu-bar li{
+	float:left;
+	padding-left:10px;
+}
+.header-bar a{
+	display:inline-block;
+	background: none repeat scroll 0 0 gray;
+	color:#FFFFFF;
+	height:27px;
+	padding-left:8px;
+	padding-top:0;
+	padding-bottom:0;
+	padding-right:8px;
+	text-align:center;
+	line-height:27px;
+	text-decoration:none;
+	font-weight:bold;
+	margin-left:8px;
+}
+.header-bar span a{
+	background-color:D14836;
+}
+/*-----------header settings end-------------*/
+
+
+
+/*-----------content settings start-------------*/
+.content{
+	text-align:left;
+	width:1000px;
+    max-width: 1000px;
+    min-width: 780px;
+	margin:15px auto;
+	height:440px;
+
+	
+}
+/*-----------content settings end-------------*/
+
+
+
+
+
+/*-----------footer settings start-------------*/
+.footer-bar{
+	text-align:left;
+	bottom:0px;
+	width: 100%;
+	height:35px;
+	left:0px;
+	border-top: 1px solid #E5E5E5;
+	overflow:hidden;
+	position:absolute;
+}
+/*-----------footer settings end-------------*/
